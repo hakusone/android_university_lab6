@@ -16,5 +16,11 @@
     <string name="action_bar_settings">Settings</string>
     <string name="action_bar_books">NY Times Bestselling Books</string>
     <string name="action_bar_search">NY Times Article Search</string>
+    <string name="settings">Settings</string>
+    <string name="article_search">Article Search</string>
+    <string name="bestselling_books">Bestselling</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
